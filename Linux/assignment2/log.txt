@@ -1,0 +1,49 @@
+=======================================================
+Showing the file using cat command
+This contains sample data
+This is sample 1 file
+Hello all
+Good day
+=======================================================
+Showing file using cat commands with line numbers
+     1	This contains sample data
+     2	This is sample 1 file
+     3	Hello all
+     4	Good day
+=======================================================
+Showing the file in reverse order using tac command
+Good day
+Hello all
+This is sample 1 file
+This contains sample data
+=======================================================
+Combining multiple files using cat command
+This contains sample data
+This is sample 1 file
+Hello all
+Good day
+This is sample 2 file
+=======================================================
+Creating new file as sampleCreate.txt
+biggestOfThree.sh
+checkFileProperty.sh
+evenOdd.sh
+ifIsFile.sh
+leapyear.sh
+log1.txt
+log.txt
+prime.sh
+problem1.sh
+problem2.sh
+random.txt
+sample1.txt
+sample2.txt
+sampleCreate.txt
+swipeNumber.sh
+=======================================================
+ 4 13 67 sample1.txt
+=======================================================
+ 4 13 67 sample1.txt
+ 1  5 22 sample2.txt
+ 5 18 89 total
+=======================================================

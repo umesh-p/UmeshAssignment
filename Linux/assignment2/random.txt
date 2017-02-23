@@ -1,0 +1,6 @@
+echo "Showing the file using cat command" > log.txt 
+cat sample1.txt >> log.txt
+echo "=======================================================" >> log.txt
+echo "Showing file using cat commands with line numbers" >> log.txt
+cat -n sample1.txt >> log.txt
+echo "=======================================================" >> log.txt
